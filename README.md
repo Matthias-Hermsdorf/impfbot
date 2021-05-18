@@ -1,7 +1,7 @@
 # Impfbot
 
-@MhImpfBot bei Telegram nutzt diesen Code.
-Schreibe diesen Bot an um Benachrichtungen zu erhalten oder clone dieses Repository um ein eigenen Impfbot zu betreiben
+[@MhImpfBot](https://t.me/MhImpfBot) bei Telegram nutzt diesen Code.
+Schreibe diesem Bot, um Benachrichtungen zu erhalten oder clone dieses Repository um einen eigenen Impfbot zu betreiben
 
 ## Beweggründe
 
